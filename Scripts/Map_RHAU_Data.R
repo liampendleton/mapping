@@ -7,7 +7,7 @@ library(lubridate)
 
 # This is Sarah's Google Key
 # Each person needs to obtain their own key 
-register_google(key = "AIzaSyDfvu_AsLHCTH1VSAi5WAi8pTzjofpI2L4", write = TRUE)
+#register_google(key = "XXXXXX", write = TRUE)
 
 # Get a Google map 
 # Probably ways to make this prettier... 
